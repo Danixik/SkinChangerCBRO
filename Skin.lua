@@ -154,6 +154,7 @@ local allSkins = {
 	{'Bayonet_Worn'},
 	{'Bayonet_Wrapped'},
 	{'Bayonet_Hallows'},
+	{'Bayonet_Haunted'},
 
 	-- Bearded Axe
 	{'Bearded Axe_Beast'},
@@ -289,6 +290,7 @@ local allSkins = {
 	{'Butterfly Knife_Worn'},
 	{'Butterfly Knife_Wrapped'},
 	{'Butterfly Knife_Argus'},
+	{'Butterfly Knife_Spooky'},
 
 	-- Falchoin
 	{'Falchoin Knife_Cocoa'},
@@ -323,6 +325,7 @@ local allSkins = {
 	{'Falchion Knife_Wrapped'},
 	{'Falchion Knife_Zombie'},
 	{'Falchion Knife_Pumpkin'},
+	{'Falchion Knife_Twilight'},
 
 	-- Gut
 	{'Gut Knife_Holly'},
@@ -351,6 +354,7 @@ local allSkins = {
 	{'Gut Knife_Wetland'},
 	{'Gut Knife_Worn'},
 	{'Gut Knife_Wrapped'},
+	{'Gut Knife_Cob Web'},
 
 	-- Huntsman
 	{'Huntsman Knife_Spirit'},
@@ -380,6 +384,7 @@ local allSkins = {
 	{'Huntsman Knife_Wetland'},
 	{'Huntsman Knife_Worn'},
 	{'Huntsman Knife_Wrapped'},
+	{'Huntsman Knife_Spookiness'},
 
 	-- Karambit
 	{'Karambit_Peppermint'},
@@ -417,6 +422,7 @@ local allSkins = {
 	{'Karambit_Wetland'},
 	{'Karambit_Worn'},
 	{'Karambit_Drop-Out'},
+	{'Karambit_Cob Web'},
 
 	-- Sickle
 	{'Sickle_Stock'},
@@ -620,6 +626,7 @@ local allSkins = {
 	{'UMP_Militia Camo'},
 	{'UMP_Molten'},
 	{'UMP_Redline'},
+	{'UMP_Orbit'},
 
 	-- USP-S
 	{'USP_Crimson'},
